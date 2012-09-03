@@ -1,0 +1,5 @@
+C:\Users\EES\Desktop\Dev\ToDoList\ToDoList\bin\ToDoList.dll
+C:\Users\EES\Desktop\Dev\ToDoList\ToDoList\bin\ToDoList.pdb
+C:\Users\EES\Desktop\Dev\ToDoList\ToDoList\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EES\Desktop\Dev\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+C:\Users\EES\Desktop\Dev\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
